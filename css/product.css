@@ -93,3 +93,8 @@ h1, h2 {
     font-family:Arsenal-Regular;
 }
 
+.btn-outline-secondary-selected {
+  color: #fff !important;
+  background-color: #6c757d;
+  border-color: #6c757d;
+}
